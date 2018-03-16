@@ -3,5 +3,8 @@ body, html{
   padding: 0;
   width: 100vw;
   height: 100vh;
-  
-}
+  }
+  body {
+    background-image: url("assets/images/2.jpg");
+    color: black;
+  }
