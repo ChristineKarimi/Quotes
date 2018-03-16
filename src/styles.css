@@ -1,0 +1,7 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+body, html{
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(235, 149, 238);
+}
