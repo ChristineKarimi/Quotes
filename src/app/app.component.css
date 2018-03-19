@@ -3,9 +3,11 @@ header {
     text-align: center;
 }
 .jumbotron {
-    color: black;
+    color: white;
     font-family: "Times New Roman", Times, serif;
     font-style: italic;
+    font-weight: 900;
+    background-color: sienna; 
 
 
 }
