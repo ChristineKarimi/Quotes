@@ -2,6 +2,19 @@
 
 An app that shows various quotes,the author and the date it was posted. This project helps the user to add their favourite quotes, upvote/downvote them and delete them.
 
+## Description
+This app enables the user to keep adding and deleting their favourite quotes, by various authors. The user can also down vote and upvote for ecah quote.
+
+## Technologies used
+HTML
+Typescript
+Angular2
+Node
+
+### Setup information and technology overview
+
+App built using Angular2. Install angular2, nodeJs, and typescript to set up the environment.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. will help host the app locally
