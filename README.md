@@ -6,10 +6,10 @@ An app that shows various quotes,the author and the date it was posted. This pro
 This app enables the user to keep adding and deleting their favourite quotes, by various authors. The user can also down vote and upvote for ecah quote.
 
 ## Technologies used
-HTML
-Typescript
-Angular2
-Node
+1.HTML,
+2.Typescript,
+3.Angular2,
+4.Node.
 
 ### Setup information and technology overview
 
@@ -30,3 +30,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+To get more information contact karimikim@gmail.com 
